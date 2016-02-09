@@ -1,5 +1,4 @@
-# CSCI E-15 Project 1
-# Proof of Concept
+# CSCI E-15 Project 1 : Proof of Concept
 
 ## Live URL
 <>
