@@ -14,32 +14,41 @@
     <link rel="stylesheet" href="css/milligram.min.css">
 
 </head>
-
 <body>
-<h1>James Green</h1>
 
-<img src="img/profile-picture.jpg" alt="James Green">
+<div class="container">
+  <h1>James Green</h1>
 
-<dl>
-  <dt>Project 2</dt>
-  <dd>Video Link</dd>
-  <dd>Demo Link</dd>
-  <dd>Github Link</dd>
-</dl>
+  <div class="row">
+    <div class="column">
+      <img src="img/profile-picture.jpg" alt="James Green" id="portfolio-image">
+    </div>
+  </div>
 
-<dl>
-  <dt>Project 3</dt>
-  <dd>Video Link</dd>
-  <dd>Demo Link</dd>
-  <dd>Github Link</dd>
-</dl>
+  <div class="row" id="projects">
+      <dl class="column">
+        <dt><strong>Project 2</strong></dt>
+        <dd>Video Link</dd>
+        <dd>Demo Link</dd>
+        <dd>Github Link</dd>
+      </dl>
 
-<dl>
-  <dt>Project 4</dt>
-  <dd>Video Link</dd>
-  <dd>Demo Link</dd>
-  <dd>Github Link</dd>
-</dl>
+      <dl class="column">
+        <dt><strong>Project 3</strong></dt>
+        <dd>Video Link</dd>
+        <dd>Demo Link</dd>
+        <dd>Github Link</dd>
+      </dl>
+
+      <dl class="column">
+        <dt><strong>Project 4</strong></dt>
+        <dd>Video Link</dd>
+        <dd>Demo Link</dd>
+        <dd>Github Link</dd>
+      </dl>
+  </div>
+
+</div>
 
 </body>
 

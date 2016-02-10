@@ -1,0 +1,18 @@
+.container
+{
+	width: 100%;
+	max-width: 1000px;
+	text-align: center;
+}
+
+#portfolio-image
+{
+	width: 100%;
+	max-width: 450px;
+    border: 10px solid black;
+}
+
+#projects
+{
+	margin-top: 75px;
+}
