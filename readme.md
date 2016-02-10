@@ -10,7 +10,7 @@ This project is a proof of concept to enure that our workflow and servers are up
 <>
 
 ## Additional Info to TA
-N/A
+* I wanted to work with a framework that I was unfamiliar with and am ultimately unhappy with it. The homepage layout will probably change as the semister progresses.
 
 ## Additional Resources
 * Milligram v1.1.0 CSS Framework <http://milligram.github.io/>

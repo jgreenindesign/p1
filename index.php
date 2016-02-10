@@ -17,39 +17,59 @@
 <body>
 
 <div class="container">
-  <h1>James Green</h1>
 
   <div class="row">
-    <div class="column">
+    <div class="column column-33">
       <img src="img/profile-picture.jpg" alt="James Green" id="portfolio-image">
     </div>
+    <!-- END .column .column-20 -->
+
+
+    <div class="column column-67">
+      <h1>James Green</h1>
+
+      <dl>
+        <dt>What is your name as listed with HES?</dt>
+        <dd>James Green</dd>
+        <dt>What do you do?</dt>
+        <dd>I am a front-end web developer for the University of South Florida</dd>
+        <dt>Why are you taking this course?</dt>
+        <dd>I have had experience with PHP programming language and wanted a more comprehensive understanding of it</dd>
+      </dl>
+
+      <div class="row">
+        <dl class="column">
+          <dt><strong>Project 2</strong></dt>
+          <dd><a class="button" href="#">Video Link</a></dd>
+          <dd><a class="button" href="#">Demo Link</a></dd>
+          <dd><a class="button" href="#">Github Link</a></dd>
+        </dl>
+
+        <dl class="column">
+          <dt><strong>Project 3</strong></dt>
+          <dd><a class="button" href="#">Video Link</a></dd>
+          <dd><a class="button" href="#">Demo Link</a></dd>
+          <dd><a class="button" href="#">Github Link</a></dd>
+        </dl>
+
+        <dl class="column">
+          <dt><strong>Project 4</strong></dt>
+          <dd><a class="button" href="#">Video Link</a></dd>
+          <dd><a class="button" href="#">Demo Link</a></dd>
+          <dd><a class="button" href="#">Github Link</a></dd>
+        </dl>
+      </div>
+      <!-- END .row -->
+
+    </div>
+    <!-- END .column .column-80 -->
+
   </div>
+<!-- END .row -->
 
-  <div class="row" id="projects">
-      <dl class="column">
-        <dt><strong>Project 2</strong></dt>
-        <dd>Video Link</dd>
-        <dd>Demo Link</dd>
-        <dd>Github Link</dd>
-      </dl>
-
-      <dl class="column">
-        <dt><strong>Project 3</strong></dt>
-        <dd>Video Link</dd>
-        <dd>Demo Link</dd>
-        <dd>Github Link</dd>
-      </dl>
-
-      <dl class="column">
-        <dt><strong>Project 4</strong></dt>
-        <dd>Video Link</dd>
-        <dd>Demo Link</dd>
-        <dd>Github Link</dd>
-      </dl>
-  </div>
 
 </div>
-
+<!-- END .container -->
 </body>
 
 </html>
