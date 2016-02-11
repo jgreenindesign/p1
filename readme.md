@@ -7,7 +7,7 @@
 This project is a proof of concept to enure that our workflow and servers are up and running
 
 ## Video URL
-<>
+<https://youtu.be/oXXHUEUh6AA>
 
 ## Additional Info to TA
 * I wanted to work with a framework that I was unfamiliar with and am ultimately unhappy with it. The homepage layout will probably change as the semister progresses.
